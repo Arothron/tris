@@ -1,0 +1,9 @@
+Package: tris
+Title: Play a 2 users tic-tac-toe game
+Version: 1.0
+Authors: Antonio Profico
+Description: Play a 2 users tic-tac-toe game in an interactive way
+Depends: R (>= 3.4.0)
+Licence: GPL-2
+Encoding: UTF-8
+RoxygenNote: 7.1.1
